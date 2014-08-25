@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Madinah Masjid</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="prayer_timings">Prayer Timings</string>
+    <string name="activites">Activities</string>
+    <string name="announcements">Announcements</string>
+    <string name="home">Home</string>
+    <string name="welcome_to_madinah_masjid">Welcome to Madinah Masjid</string>
+    <string name="home_text_1">In the Holy Quran Allah</string>
+    <string name="home_text_2">Says: \"he</string>
+    <string name="home_text_3">who obeys the messenger, has indeed</string>
+    <string name="home_text_4"> obeyed Allah.\"</string>
+    <string name="home_text_5">"In another place Allah"</string>
+    <string name="home_text_6">commands</string>
+    <string name="home_text_7">Muslims as \"O\' people if you love Allah </string>
+    <string name="home_text_8">then follow My messenger, Allah will love you and</string>
+    <string name="home_text_9"> forgive your sins and Allah is forgiving and merciful\".</string>
+    <string name="home_text_10">"These and other similar verses of Quran proves that our success as a Muslim here and after is only in following the path of our beloved prophet "</string>
+    <string name="home_text_11">Muhammad</string>
+    <string name="home_text_12">In this era of inflictions, to revive</string>
+    <string name="home_text_13">the diminishing Sunnah of the prophet again in the </string>
+    <string name="home_text_14">hearts of Muslims, the Madinah Masjid of </string>
+    <string name="home_text_15">Carrollton came into existence. Our Mission is to educate the Muslims about Islam from the Real Sources i.e. Quran and the Sunnah of our beloved </string>
+    <string name="home_text_16">Prophet Muhammad</string>
+    <string name="home_text_17">.We sincerely appeal to all </string>
+    <string name="home_text_18">Muslims to follow in the path of Shariah. The Shariah that was established by our </string>
+    <string name="home_text_19">Prophet Muhammad</string>
+    <string name="home_text_20">and those who followed </string>
+    <string name="home_text_21">him to bring Islam to our generation. Such Sharia is the only guarantee that our \"Ibadah\"</string>
+    <string name="home_text_22">will be accepted by Allah</string>
+
+</resources>
